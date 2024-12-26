@@ -1,0 +1,56 @@
+.header{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.main{
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: red;
+    padding: 10px;
+}
+
+.submenu a {
+    color: white;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+.sub {
+    background-color: #FFF9C4;
+    padding: 10px;
+}
+
+.menu {
+    background-color: purple;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.submenu{
+    background-color: blue;
+    padding: 10px;
+}
+
+.image {
+    width: 600px;
+    height: 600px;
+    background-image: url("./asset/image/1main-home-banner.jpg");   
+    background-repeat: no-repeat;
+}
+
+.banner-heading {
+    font-size: xx-large;
+    font-weight: 400;
+    color: brown;
+    text-align: center;
+}
+
+.banner {
+    display: flex;
+    flex-direction: row;
+}
