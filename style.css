@@ -1,7 +1,7 @@
 .header{
     text-align: center;
     font-size: xx-large;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .main{
@@ -14,7 +14,7 @@
 .submenu a {
     color: white;
     font-weight: 600;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', monospace;
     text-decoration: none;
 }
 
